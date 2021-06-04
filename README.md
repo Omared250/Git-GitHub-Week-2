@@ -22,4 +22,3 @@ Usign the command git log -p you'll get the content of what changed in each file
 
 answer:
 HEAD determines what branch you are on. It's a pointer to the last commit you made.
-a
